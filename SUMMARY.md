@@ -4,7 +4,7 @@
 * [সূচিপত্র](contents.md)
 * [পর্ব ১ঃ শুরুর ধারনা -  সি প্রোগ্রামিং](starting-ideas/README.md)
   * [১.১ কম্পিউটার প্রোগ্রামিং কী ও সি দর্শন?](starting-ideas/what-is-programming-and-c-philosophy.md)
-  * [১.২ কেন সি প্রোগ্রামিং?](starting-ideas/.why-c-programming.md)
+  * [১.২ কেন সি প্রোগ্রামিং?](starting-ideas/why-c-programming.md)
   * [১.৩ শুরুর আগে জানতে হবে](starting-ideas/know-before-starting.md)
   * [১.৪ প্রয়োজনীয় সফটওয়্যার](starting-ideas/necessary-software.md)
 * [পর্ব ২ঃ শুরুর পথে মৌলিক সি ধারনা](undefined/README.md)
