@@ -4,7 +4,7 @@
 * [সূচিপত্র](contents.md)
 * [পর্ব ১ঃ শুরুর ধারনা -  সি প্রোগ্রামিং](part-one/README.md)
   * [১.১ কম্পিউটার প্রোগ্রামিং কী ও সি দর্শন?](part-one/what-is-programming-and-c-philosophy.md)
-  * [১.২ কেন সি প্রোগ্রামিং?](part-one/why-c-programming.md)
+  * [১.২ সি প্রোগ্রামিং/কেন সি শিখবেন??](part-one/why-c-programming.md)
   * [১.৩ শুরুর আগে জানতে হবে](part-one/know-before-starting.md)
   * [১.৪ প্রয়োজনীয় সফটওয়্যার](part-one/necessary-software.md)
 * [পর্ব ২ঃ শুরুর পথে মৌলিক সি ধারনা](part-two/README.md)
